@@ -1,0 +1,280 @@
+===== RACE RUN 1 =====
+===== Image size: 64x64 | Number of images: 200 =====
+Average Blur Execution time = 0.000127 sec
+Average Sobel Execution time = 0.000223 sec
+Average Non max Execution time = 0.000025 sec
+Average Thresholding Execution time = 0.000006 sec
+Average Hysteresis Execution time = 0.000022 sec
+Average Canny Execution time = 0.000403 sec
+Average FPS is: 2483.710304
+RACE strongCount = 192834
+RACE sumGrad = 38335407.146944
+RACE maxGrad = 1081.873291
+===== Image size: 128x128 | Number of images: 200 =====
+Average Blur Execution time = 0.000332 sec
+Average Sobel Execution time = 0.000610 sec
+Average Non max Execution time = 0.000088 sec
+Average Thresholding Execution time = 0.000024 sec
+Average Hysteresis Execution time = 0.000100 sec
+Average Canny Execution time = 0.001154 sec
+Average FPS is: 866.551235
+RACE strongCount = 572963
+RACE sumGrad = 104656451.374957
+RACE maxGrad = 1081.873291
+===== Image size: 256x256 | Number of images: 150 =====
+Average Blur Execution time = 0.001933 sec
+Average Sobel Execution time = 0.003322 sec
+Average Non max Execution time = 0.000764 sec
+Average Thresholding Execution time = 0.000323 sec
+Average Hysteresis Execution time = 0.000512 sec
+Average Canny Execution time = 0.006854 sec
+Average FPS is: 145.898652
+RACE strongCount = 1223190
+RACE sumGrad = 233585219.693591
+RACE maxGrad = 1081.873291
+===== Image size: 512x512 | Number of images: 78 =====
+Average Blur Execution time = 0.008290 sec
+Average Sobel Execution time = 0.013922 sec
+Average Non max Execution time = 0.002036 sec
+Average Thresholding Execution time = 0.000510 sec
+Average Hysteresis Execution time = 0.002028 sec
+Average Canny Execution time = 0.026785 sec
+Average FPS is: 37.333769
+RACE strongCount = 1804103
+RACE sumGrad = 351367338.059135
+RACE maxGrad = 1081.873291
+===== Image size: 1024x1024 | Number of images: 74 =====
+Average Blur Execution time = 0.033893 sec
+Average Sobel Execution time = 0.057019 sec
+Average Non max Execution time = 0.008416 sec
+Average Thresholding Execution time = 0.001821 sec
+Average Hysteresis Execution time = 0.008390 sec
+Average Canny Execution time = 0.109538 sec
+Average FPS is: 9.129291
+RACE strongCount = 6272147
+RACE sumGrad = 1173561179.048132
+RACE maxGrad = 1081.873291
+===== RACE RUN 2 =====
+===== Image size: 64x64 | Number of images: 200 =====
+Average Blur Execution time = 0.000094 sec
+Average Sobel Execution time = 0.000189 sec
+Average Non max Execution time = 0.000029 sec
+Average Thresholding Execution time = 0.000014 sec
+Average Hysteresis Execution time = 0.000031 sec
+Average Canny Execution time = 0.000357 sec
+Average FPS is: 2801.278787
+RACE strongCount = 186323
+RACE sumGrad = 37482856.864183
+RACE maxGrad = 1081.873291
+===== Image size: 128x128 | Number of images: 200 =====
+Average Blur Execution time = 0.000500 sec
+Average Sobel Execution time = 0.000901 sec
+Average Non max Execution time = 0.000133 sec
+Average Thresholding Execution time = 0.000031 sec
+Average Hysteresis Execution time = 0.000132 sec
+Average Canny Execution time = 0.001696 sec
+Average FPS is: 589.456808
+RACE strongCount = 575588
+RACE sumGrad = 108707952.917327
+RACE maxGrad = 1081.873291
+===== Image size: 256x256 | Number of images: 150 =====
+Average Blur Execution time = 0.001763 sec
+Average Sobel Execution time = 0.003326 sec
+Average Non max Execution time = 0.000481 sec
+Average Thresholding Execution time = 0.000103 sec
+Average Hysteresis Execution time = 0.000520 sec
+Average Canny Execution time = 0.006193 sec
+Average FPS is: 161.472991
+RACE strongCount = 1219880
+RACE sumGrad = 229754974.739864
+RACE maxGrad = 1081.873291
+===== Image size: 512x512 | Number of images: 78 =====
+Average Blur Execution time = 0.007710 sec
+Average Sobel Execution time = 0.014481 sec
+Average Non max Execution time = 0.002011 sec
+Average Thresholding Execution time = 0.000424 sec
+Average Hysteresis Execution time = 0.002031 sec
+Average Canny Execution time = 0.026658 sec
+Average FPS is: 37.512687
+RACE strongCount = 1798274
+RACE sumGrad = 342334472.526962
+RACE maxGrad = 1081.873291
+===== Image size: 1024x1024 | Number of images: 74 =====
+Average Blur Execution time = 0.033900 sec
+Average Sobel Execution time = 0.056530 sec
+Average Non max Execution time = 0.008191 sec
+Average Thresholding Execution time = 0.001805 sec
+Average Hysteresis Execution time = 0.008453 sec
+Average Canny Execution time = 0.108878 sec
+Average FPS is: 9.184560
+RACE strongCount = 6212607
+RACE sumGrad = 1160815397.117630
+RACE maxGrad = 1081.873291
+===== RACE RUN 3 =====
+===== Image size: 64x64 | Number of images: 200 =====
+Average Blur Execution time = 0.000102 sec
+Average Sobel Execution time = 0.000216 sec
+Average Non max Execution time = 0.000062 sec
+Average Thresholding Execution time = 0.000010 sec
+Average Hysteresis Execution time = 0.000044 sec
+Average Canny Execution time = 0.000433 sec
+Average FPS is: 2310.009833
+RACE strongCount = 184431
+RACE sumGrad = 37604048.632275
+RACE maxGrad = 1081.873291
+===== Image size: 128x128 | Number of images: 200 =====
+Average Blur Execution time = 0.000455 sec
+Average Sobel Execution time = 0.000859 sec
+Average Non max Execution time = 0.000116 sec
+Average Thresholding Execution time = 0.000032 sec
+Average Hysteresis Execution time = 0.000138 sec
+Average Canny Execution time = 0.001600 sec
+Average FPS is: 624.893200
+RACE strongCount = 572794
+RACE sumGrad = 106783989.341696
+RACE maxGrad = 1081.873291
+===== Image size: 256x256 | Number of images: 150 =====
+Average Blur Execution time = 0.001761 sec
+Average Sobel Execution time = 0.003431 sec
+Average Non max Execution time = 0.000453 sec
+Average Thresholding Execution time = 0.000104 sec
+Average Hysteresis Execution time = 0.000515 sec
+Average Canny Execution time = 0.006265 sec
+Average FPS is: 159.616830
+RACE strongCount = 1212161
+RACE sumGrad = 222080422.617217
+RACE maxGrad = 1081.873291
+===== Image size: 512x512 | Number of images: 78 =====
+Average Blur Execution time = 0.007462 sec
+Average Sobel Execution time = 0.014026 sec
+Average Non max Execution time = 0.002482 sec
+Average Thresholding Execution time = 0.000688 sec
+Average Hysteresis Execution time = 0.002079 sec
+Average Canny Execution time = 0.026737 sec
+Average FPS is: 37.401620
+RACE strongCount = 1800726
+RACE sumGrad = 336979524.446726
+RACE maxGrad = 1081.873291
+===== Image size: 1024x1024 | Number of images: 74 =====
+Average Blur Execution time = 0.034303 sec
+Average Sobel Execution time = 0.058107 sec
+Average Non max Execution time = 0.008605 sec
+Average Thresholding Execution time = 0.001864 sec
+Average Hysteresis Execution time = 0.008477 sec
+Average Canny Execution time = 0.111356 sec
+Average FPS is: 8.980214
+RACE strongCount = 6188488
+RACE sumGrad = 1118661624.648958
+RACE maxGrad = 1081.873291
+===== RACE RUN 4 =====
+===== Image size: 64x64 | Number of images: 200 =====
+Average Blur Execution time = 0.000111 sec
+Average Sobel Execution time = 0.000215 sec
+Average Non max Execution time = 0.000033 sec
+Average Thresholding Execution time = 0.000010 sec
+Average Hysteresis Execution time = 0.000031 sec
+Average Canny Execution time = 0.000400 sec
+Average FPS is: 2498.331299
+RACE strongCount = 190732
+RACE sumGrad = 39845578.417236
+RACE maxGrad = 1081.873291
+===== Image size: 128x128 | Number of images: 200 =====
+Average Blur Execution time = 0.000451 sec
+Average Sobel Execution time = 0.000862 sec
+Average Non max Execution time = 0.000142 sec
+Average Thresholding Execution time = 0.000030 sec
+Average Hysteresis Execution time = 0.000130 sec
+Average Canny Execution time = 0.001615 sec
+Average FPS is: 619.345461
+RACE strongCount = 572964
+RACE sumGrad = 106314325.841045
+RACE maxGrad = 1081.873291
+===== Image size: 256x256 | Number of images: 150 =====
+Average Blur Execution time = 0.001849 sec
+Average Sobel Execution time = 0.003422 sec
+Average Non max Execution time = 0.000457 sec
+Average Thresholding Execution time = 0.000105 sec
+Average Hysteresis Execution time = 0.000533 sec
+Average Canny Execution time = 0.006367 sec
+Average FPS is: 157.063758
+RACE strongCount = 1219969
+RACE sumGrad = 231843218.019502
+RACE maxGrad = 1081.873291
+===== Image size: 512x512 | Number of images: 78 =====
+Average Blur Execution time = 0.007327 sec
+Average Sobel Execution time = 0.013525 sec
+Average Non max Execution time = 0.001955 sec
+Average Thresholding Execution time = 0.000408 sec
+Average Hysteresis Execution time = 0.002038 sec
+Average Canny Execution time = 0.025253 sec
+Average FPS is: 39.599589
+RACE strongCount = 1796947
+RACE sumGrad = 338854296.680388
+RACE maxGrad = 1081.873291
+===== Image size: 1024x1024 | Number of images: 74 =====
+Average Blur Execution time = 0.032379 sec
+Average Sobel Execution time = 0.058158 sec
+Average Non max Execution time = 0.008338 sec
+Average Thresholding Execution time = 0.001900 sec
+Average Hysteresis Execution time = 0.008466 sec
+Average Canny Execution time = 0.109240 sec
+Average FPS is: 9.154148
+RACE strongCount = 6169460
+RACE sumGrad = 1111743218.758584
+RACE maxGrad = 1081.873291
+===== RACE RUN 5 =====
+===== Image size: 64x64 | Number of images: 200 =====
+Average Blur Execution time = 0.000177 sec
+Average Sobel Execution time = 0.000241 sec
+Average Non max Execution time = 0.000044 sec
+Average Thresholding Execution time = 0.000012 sec
+Average Hysteresis Execution time = 0.000036 sec
+Average Canny Execution time = 0.000511 sec
+Average FPS is: 1956.605984
+RACE strongCount = 207811
+RACE sumGrad = 49990435.151938
+RACE maxGrad = 1081.873291
+===== Image size: 128x128 | Number of images: 200 =====
+Average Blur Execution time = 0.000694 sec
+Average Sobel Execution time = 0.001037 sec
+Average Non max Execution time = 0.000154 sec
+Average Thresholding Execution time = 0.000041 sec
+Average Hysteresis Execution time = 0.000149 sec
+Average Canny Execution time = 0.002075 sec
+Average FPS is: 481.885639
+RACE strongCount = 611025
+RACE sumGrad = 132434250.791778
+RACE maxGrad = 1081.873291
+===== Image size: 256x256 | Number of images: 150 =====
+Average Blur Execution time = 0.002173 sec
+Average Sobel Execution time = 0.003626 sec
+Average Non max Execution time = 0.000514 sec
+Average Thresholding Execution time = 0.000119 sec
+Average Hysteresis Execution time = 0.000546 sec
+Average Canny Execution time = 0.006978 sec
+Average FPS is: 143.312196
+RACE strongCount = 1244189
+RACE sumGrad = 253346849.976157
+RACE maxGrad = 1081.873291
+===== Image size: 512x512 | Number of images: 78 =====
+Average Blur Execution time = 0.008119 sec
+Average Sobel Execution time = 0.014290 sec
+Average Non max Execution time = 0.002164 sec
+Average Thresholding Execution time = 0.000501 sec
+Average Hysteresis Execution time = 0.002227 sec
+Average Canny Execution time = 0.027300 sec
+Average FPS is: 36.630046
+RACE strongCount = 1816647
+RACE sumGrad = 358059495.348765
+RACE maxGrad = 1081.873291
+===== Image size: 1024x1024 | Number of images: 74 =====
+Average Blur Execution time = 0.031385 sec
+Average Sobel Execution time = 0.054126 sec
+Average Non max Execution time = 0.007649 sec
+Average Thresholding Execution time = 0.001664 sec
+Average Hysteresis Execution time = 0.008212 sec
+Average Canny Execution time = 0.103035 sec
+Average FPS is: 9.705431
+RACE strongCount = 6200283
+RACE sumGrad = 1135322717.441032
+RACE maxGrad = 1081.873291

@@ -1,0 +1,56 @@
+===== DEFAULT THREADS =====
+===== Image size: 64x64 | Number of images: 200 =====
+Average Blur Execution time = 0.000091 sec
+Average Sobel Execution time = 0.000102 sec
+Average Non-max Execution time = 0.000026 sec
+Average Thresholding Execution time = 0.000007 sec
+Average Hysteresis Execution time = 0.000022 sec
+Average Canny Execution time = 0.000249 sec
+Average FPS is: 4021.813598
+FIXED strongCount = 266774
+FIXED sumGrad = 93821787.559312
+FIXED maxGrad = 1081.873291
+===== Image size: 128x128 | Number of images: 200 =====
+Average Blur Execution time = 0.000278 sec
+Average Sobel Execution time = 0.000312 sec
+Average Non-max Execution time = 0.000078 sec
+Average Thresholding Execution time = 0.000020 sec
+Average Hysteresis Execution time = 0.000088 sec
+Average Canny Execution time = 0.000776 sec
+Average FPS is: 1288.143621
+FIXED strongCount = 740831
+FIXED sumGrad = 268304207.035838
+FIXED maxGrad = 1081.873291
+===== Image size: 256x256 | Number of images: 150 =====
+Average Blur Execution time = 0.001513 sec
+Average Sobel Execution time = 0.001369 sec
+Average Non-max Execution time = 0.000329 sec
+Average Thresholding Execution time = 0.000082 sec
+Average Hysteresis Execution time = 0.000350 sec
+Average Canny Execution time = 0.003643 sec
+Average FPS is: 274.467575
+FIXED strongCount = 1461443
+FIXED sumGrad = 580086348.539284
+FIXED maxGrad = 1081.873291
+===== Image size: 512x512 | Number of images: 78 =====
+Average Blur Execution time = 0.006424 sec
+Average Sobel Execution time = 0.006229 sec
+Average Non-max Execution time = 0.001799 sec
+Average Thresholding Execution time = 0.000357 sec
+Average Hysteresis Execution time = 0.001461 sec
+Average Canny Execution time = 0.016270 sec
+Average FPS is: 61.464009
+FIXED strongCount = 2023209
+FIXED sumGrad = 856306835.864714
+FIXED maxGrad = 1081.873291
+===== Image size: 1024x1024 | Number of images: 74 =====
+Average Blur Execution time = 0.042652 sec
+Average Sobel Execution time = 0.039348 sec
+Average Non-max Execution time = 0.008812 sec
+Average Thresholding Execution time = 0.002291 sec
+Average Hysteresis Execution time = 0.007601 sec
+Average Canny Execution time = 0.100704 sec
+Average FPS is: 9.930059
+FIXED strongCount = 7118639
+FIXED sumGrad = 2829993121.430333
+FIXED maxGrad = 1081.873291
